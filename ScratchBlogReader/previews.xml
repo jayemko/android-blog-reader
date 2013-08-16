@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+    <preview
+        name="Nexus 7 Landscape"
+        activity="com.jayemko.blogreader.MainListActivity"
+        config="layout-sw600dp-w961dp-h600dp-large-notlong-land-notnight-tvdpi-finger-keyssoft-nokeys-navhidden-nonav-1280x800-v18"
+        device="Nexus 7"
+        devicestate="Landscape"
+        target="Android 4.3"
+        theme="@style/AppTheme" >
+    </preview>
+</previews>
