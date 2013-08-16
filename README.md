@@ -10,6 +10,7 @@ Rebuilding fron Scratch
   - Handling a Lack of Data
   - Adding Data for the List
   - All About @string Resources
+
 Getting Data from the Web
   - Trying Code and Catching Exceptions
   - Requesting Data from the Web the Wrong Way
@@ -17,12 +18,14 @@ Getting Data from the Web
   - What To Do When the Network is Down
   - Getting JSON Data from an HTTP Request
   - Parsing Data Returned in JSON Format
+
 Adapting Data for Display in a List
   - Finishing Our AsyncTask
   - Filling Our String Array and Creating the Adapter
   - Handling Errors Using Dialogs
   - Cleaning Up Our Presentation
   - Adding Secondary Data with a SimpleAdapter
+  
 USing Intent to Display and Share Posts
   - Opening a Webpage in the Browser
   - Opening a Webpage Within the App
